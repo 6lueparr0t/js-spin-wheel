@@ -4,7 +4,8 @@
 
 ## Overview
 
-CSS 를 응용한 간단한 로직으로 구현한 돌림판
+- [사이트 이동](https://6lueparr0t.github.io/js-spin-wheel/)
+- CSS 를 응용한 간단한 로직으로 구현한 돌림판
 
 ## Feature
 
